@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 💻 I'm currently building responsive web applications while learning the MEA(R)N Stack.<br><br>🤝 I'm looking to collaborate on Open Source projects and beginner-friendly web development projects<br><br>🌱 I'm currently learning JavaScript, React.js, Node.js, Express.js, MongoDB, and Data Structures & Algorithms<br><br>💬 Ask me about HTML, CSS, Bootstrap, JavaScript, Responsive Web Design, and GitHub<br><br>📫 Reach me at fahdfaz.8943@gmail.com<br><br>⚡ Fun fact: I enjoy turning what I learn into real projects instead of just completing tutorials.
+💻 I'm currently building responsive web applications while learning the MEA(R)N Stack.<br><br>🤝 I'm looking to collaborate on Open Source projects and beginner-friendly web development projects<br><br>🌱 I'm currently learning JavaScript, React.js, Node.js, Express.js, MongoDB, and Data Structures & Algorithms<br><br>💬 Ask me about HTML, CSS, Bootstrap, JavaScript, Responsive Web Design, and GitHub<br><br>📫 Reach me at fahdfaz.8943@gmail.com<br><br>⚡ Fun fact: I enjoy turning what I learn into real projects instead of just completing tutorials.
 
 
 ## 🌐 Socials:
